@@ -3,7 +3,7 @@
 In this repo I'll add some basic commands for using Git:
 ```sh
   git init #initializes git repo
-  git add . #adds another file
+  git add . #adds all content in the folder to the repo
   git commit -m "Initial commit" #commits changes added
 ```
 > The above commands are used to initialize, add and commit git changes to a repo.
